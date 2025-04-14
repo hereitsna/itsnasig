@@ -1,0 +1,649 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.94877,
+          "longitude": 110.2963,
+          "lokasi": "Sidomulyo, Bantul Yogyakarta",
+          "tanggal": "9 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_2395.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.2963,
+            -7.94877
+          ]
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -8.0237,
+          "longitude": 110.3261,
+          "lokasi": "Pantai Parangtritis",
+          "tanggal": "9 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/webgis/refs/heads/main/aee945d4-6de4-4bb4-973e-f478f72d1f88.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.3261,
+            -8.0237
+          ]
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -8.00242,
+          "longitude": 110.28463,
+          "lokasi": "Kano Maritim Baros",
+          "tanggal": "9 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_9805.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.28463,
+            -8.00242
+          ]
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -8.00161,
+          "longitude": 110.28415,
+          "lokasi": "Kano Maritim Baros",
+          "Tanggal": "9 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_2397.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.28415,
+            -8.00161
+          ]
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -8.0032,
+          "longitude": 110.2829,
+          "lokasi": "Kano Maritim Baros",
+          "tanggal": "9 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/FullSizeRender.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.2829,
+            -8.0032
+          ]
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -8.0034,
+          "longitude": 110.28246,
+          "lokasi": "Kano Maritim Baros",
+          "tanggal": "9 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/sigweb/refs/heads/main/FullSizeRender.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.28246,
+            -8.0034
+          ]
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -8.00356,
+          "longitude": 110.28216,
+          "lokasi": "Kano Maritim Baros",
+          "tanggal ": "9 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/webgis/refs/heads/main/FullSizeRender.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.28216,
+            -8.00356
+          ]
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.98755,
+          "longitude": 110.31019,
+          "lokasi": "Donotirto, Bantul Yogyakarta",
+          "tanggal": "9 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_2398.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.31019,
+            -7.98755
+          ]
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77589,
+          "longitude": 110.37441,
+          "lokasi": "DTEDI Sekolah Vokasi UGM",
+          "tanggal": "17 Maret 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_3192.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37441,
+            -7.77589
+          ]
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77499,
+          "longitude": 110.37467,
+          "lokasi": "DTK Sekolah Vokasi UGM",
+          "tanggal": "28 November 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0017.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37467,
+            -7.77499
+          ]
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77486,
+          "longitude": 110.37438,
+          "lokasi": "DTK Sekolah Vokasi UGM",
+          "tanggal": "19 Maret 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_3349.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37438,
+            -7.77486
+          ]
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77393,
+          "longitude": 110.37501,
+          "lokasi": "DBSMB Sekolah Vokasi UGM",
+          "tanggal ": "14 November 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0675.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37501,
+            -7.77393
+          ]
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77432,
+          "longitude": 110.37453,
+          "lokasi": "DBSMB Sekolah Vokasi UGM",
+          "tanggal": "21 November 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0804.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37453,
+            -7.77432
+          ]
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77477,
+          "longitude": 110.37424,
+          "lokasi": "DTK Sekolah Vokasi UGM",
+          "tanggal": "6 November 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0577.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37424,
+            -7.77477
+          ]
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.7749,
+          "longitude": 110.37376,
+          "lokasi": "DTS Sekolah Vokasi UGM ",
+          "tanggal ": "3 Maret 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_2908.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37376,
+            -7.7749
+          ]
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77476,
+          "longitude": 110.37335,
+          "lokasi": "DTS Sekolah Vokasi UGM",
+          "tanggal ": "10 Maret 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_3108.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37335,
+            -7.77476
+          ]
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77406,
+          "longitude": 110.37342,
+          "lokasi": "DTHV Sekolah Vokasi UGM",
+          "tanggal": "11 November 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0649.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37342,
+            -7.77406
+          ]
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77338,
+          "longitude": 110.37367,
+          "lokasi": "DTHV Sekolah Vokasi UGM",
+          "tanggal": "18 November 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0775.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37367,
+            -7.77338
+          ]
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.7724,
+          "longitude": 110.373,
+          "lokasi": "Fasilitas Rohani UGM",
+          "tanggal": "28 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_2837.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.373,
+            -7.7724
+          ]
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77205,
+          "longitude": 110.37316,
+          "lokasi": "Fasilitas Rohani UGM",
+          "tanggal": "28 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_2836.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37316,
+            -7.77205
+          ]
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77429,
+          "longitude": 110.37923,
+          "lokasi": "sekretariat B8 UGM",
+          "tanggal": "8 Oktober 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0332.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37923,
+            -7.77429
+          ]
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77138,
+          "longitude": 110.37788,
+          "lokasi": "Lapangan Pancasila UGM",
+          "tanggal": "24 November 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0884.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37788,
+            -7.77138
+          ]
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77126,
+          "longitude": 110.37715,
+          "lokasi": "Lapangan Pancasila UGM",
+          "tanggal": "24 November 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0866.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.37715,
+            -7.77126
+          ]
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77206,
+          "longitude": 110.38236,
+          "lokasi": "Lembah Fitnes UGM",
+          "tanggal": "21 Oktober 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0332.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.38236,
+            -7.77206
+          ]
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77178,
+          "longitude": 110.38267,
+          "lokasi": "Lapangan Tenis Lembah Fitnes UGM",
+          "tanggal": "15 November 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0725.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.38267,
+            -7.77178
+          ]
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.7717,
+          "longitude": 110.3824
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.3824,
+            -7.7717
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77116,
+          "longitude": 110.38287,
+          "lokasi": "Lapangan Baseball UGM",
+          "tanggal": "20 Oktober 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0326.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.38287,
+            -7.77116
+          ]
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.77113,
+          "longitude": 110.38271,
+          "lokasi": "Lapangan Baseball UGM",
+          "tanggal": "23 Oktober 2024",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_0356.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.38271,
+            -7.77113
+          ]
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.61163,
+          "longitude": 110.6331,
+          "lokasi": "Candramaya Pool & Resort Klaten",
+          "tanggal": "5 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_1940.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.6331,
+            -7.61163
+          ]
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.6118,
+          "longitude": 110.63293,
+          "lokasi": "Candramaya Pool & Resort Klaten",
+          "tanggal ": "5 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_1973.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.63293,
+            -7.6118
+          ]
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.61187,
+          "longitude": 110.63293,
+          "lokasi": "Candramaya Pool & Resort Klaten",
+          "tanggal": "5 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_4921.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.63293,
+            -7.61187
+          ]
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.61199,
+          "longitude": 110.6329,
+          "lokasi": "Candramaya Pool & Resort Klaten",
+          "tanggal": "5 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_4873.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.6329,
+            -7.61199
+          ]
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.61212,
+          "longitude": 110.63289,
+          "lokasi": "Candramaya Pool & Resort Klaten",
+          "tanggal": "5 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_4901.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.63289,
+            -7.61212
+          ]
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.61248,
+          "longitude": 110.63282,
+          "lokasi": "Candramaya Pool & Resort Klaten",
+          "tanggal": "5 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_1689.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.63282,
+            -7.61248
+          ]
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.61256,
+          "longitude": 110.63274,
+          "lokasi": "Candramaya Pool & Resort Klaten",
+          "tanggal": "5 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_4956.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.63274,
+            -7.61256
+          ]
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "latitude": -7.61267,
+          "longitude": 110.63278,
+          "lokasi": "Candramaya Pool & Resort Klaten",
+          "tanggal": "5 Februari 2025",
+          "jelajah_saya": "https://raw.githubusercontent.com/hereitsna/itsnasig/refs/heads/main/IMG_4814.jpeg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            110.63278,
+            -7.61267
+          ]
+        },
+        "id": 37
+      }
+    ]
+  }
